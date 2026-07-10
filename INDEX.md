@@ -17,3 +17,7 @@
 
 ## Vazby
 [ZRR 40/1995](/home/vojtech/Komentar-ZRRek-40-1995/) (reklama), 483/1991 (ČT), 484/1991 (ČRo), 132/2010 (AVMS), 242/2022 (UGC platformy).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.

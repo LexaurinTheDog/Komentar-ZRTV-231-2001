@@ -148,3 +148,141 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | určí; jmenuje; rozhodne | [§ 5](https://e-sbirka.gov.cz/sb/2001/231#par_5); [§ 11](https://e-sbirka.gov.cz/sb/2001/231#par_11); [§ 15](https://e-sbirka.gov.cz/sb/2001/231#par_15); [§ 18](https://e-sbirka.gov.cz/sb/2001/231#par_18); [§ 23](https://e-sbirka.gov.cz/sb/2001/231#par_23) |
 | Oprávnění a povinnost | je povinna; musí; jsou povinni; je povinen | [§ 3a](https://e-sbirka.gov.cz/sb/2001/231#par_3a); [§ 5](https://e-sbirka.gov.cz/sb/2001/231#par_5); [§ 6](https://e-sbirka.gov.cz/sb/2001/231#par_6); [§ 7](https://e-sbirka.gov.cz/sb/2001/231#par_7); [§ 8](https://e-sbirka.gov.cz/sb/2001/231#par_8) |
 | Domněnky, fikce a účinkové konstrukce | považuje se za; má se za to | [§ 3](https://e-sbirka.gov.cz/sb/2001/231#par_3); [§ 11](https://e-sbirka.gov.cz/sb/2001/231#par_11); [§ 20](https://e-sbirka.gov.cz/sb/2001/231#par_20); [§ 21](https://e-sbirka.gov.cz/sb/2001/231#par_21) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 231/2001 Sb., o rozhlasovém a televizním vysílání (ZRTV) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Deontická (normativní) modalita vyjadřuje způsob, jímž právní norma váže jednání svého adresáta. Nauka rozlišuje **objektivní modality**, jež popisují normu z hlediska jejího obsahu bez ohledu na konkrétní subjekt, a **subjektivní modality**, jež vyjadřují postavení konkrétního subjektu v právním vztahu. K základním objektivním modalitám patří **příkaz** (norma nařizuje konání — „musíš, tedy je zakázáno nekonat"), **zákaz** (norma nařizuje zdržení se — „nesmíš") a **dovolení** (norma ponechává jednání na vůli adresáta — „smíš"). Příkaz a zákaz jsou modality kladoucí povinnost; dovolení je modalitou negativní, vymezenou tím, že jednání není ani přikázáno, ani zakázáno. Tyto tři modality jsou vzájemně definovatelné pomocí negace (zákaz = příkaz zdržet se; dovolení = negace zákazu).
+
+Zvláštní postavení mají **kompetenční normy (zmocnění)**. Ty nezakládají povinnost ani dovolení v pravém smyslu, nýbrž **pravomoc** orgánu veřejné moci autoritativně působit na právní poměry jiných — vydávat správní akty, ukládat sankce, odnímat oprávnění. V ZRTV je nositelem těchto kompetencí Rada pro rozhlasové a televizní vysílání (dále „Rada" nebo „RRTV"). Kompetenční norma je typicky formulována indikativem („Rada uděluje", „Rada odejme"), z něhož nauka i judikatura dovozují, zda jde o zmocnění vázané (obligatorní výkon) nebo o zmocnění s prostorem pro správní uvážení.
+
+Na straně adresátů se uplatňuje **korelativita oprávnění a povinnosti**: subjektivní oprávnění jednoho (např. dotčené osoby na uveřejnění odpovědi) má svůj protějšek v subjektivní povinnosti druhého (provozovatele odpověď uveřejnit). Oprávnění se v textu předpisu poznává podle normativních výrazů „má právo", „je oprávněn", „může"; povinnost podle výrazů „je povinen", „musí", případně podle příkazového infinitivu ve výčtu („uchovávat", „sestavovat"). Rozlišení příkaz/povinnost je zde spíše otázkou perspektivy — táž norma je objektivně příkazem a subjektivně povinností konkrétního provozovatele.
+
+Konečně **domněnky a fikce** jsou nástroje regulace dokazování a právní jistoty. **Vyvratitelná domněnka** (praesumptio iuris) přesouvá důkazní břemeno, ale připouští důkaz opaku; **nevyvratitelná domněnka** a **fikce** (fictio iuris) důkaz opaku nepřipouštějí — fikce navíc spojuje právní následek se skutečností, o níž se ví, že nenastala (typicky „platí, že … je registrován" při nečinnosti orgánu, nebo „má se za to, že … vyslovila souhlas"). V ZRTV plní fikce ochrannou funkci vůči žadateli: sankcionují nečinnost Rady tím, že přiznávají účinek, jehož by se žadatel jinak nedobral.
+
+### Příkaz
+
+Příkaz ukládá adresátu konat. V ZRTV se objevuje jednak jako **procesní povinnost Rady** postupovat určitým způsobem před uložením sankce, jednak jako **hmotněprávní povinnost provozovatele** aktivně zajistit určitý stav vysílání. Klíčovým příkazem procesní povahy je pravidlo § 59 odst. 1, jež zavádí zásadu „nejprve výzva, pak trest": Rada nejprve **upozorní** na porušení a **stanoví lhůtu k nápravě**, a teprve při opětovném porušení může sankcionovat. Tento příkaz má materiální, nikoli jen formální povahu — je součástí skutkové podstaty a jeho nesplnění vylučuje trestnost.
+
+Příkazy hmotněprávní jsou soustředěny zejména v katalogu základních povinností provozovatele (§ 32), který je uvozen indikativem „je povinen" a rozveden příkazovými infinitivy jednotlivých písmen. Sem patří příkaz **uchovávat záznamy** vysílání (§ 32 odst. 1 písm. l), který teprve umožňuje dozorovou a důkazní činnost Rady, nebo příkaz **sestavovat programovou skladbu** vyváženě (§ 31 odst. 4). Příkazy tak plní instrumentální roli vůči celému kontrolnímu mechanismu zákona.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 59 odst. 1 | upozorní … a stanoví | „upozorní jej Rada na porušení tohoto zákona a stanoví mu lhůtu k nápravě" | Materiální podmínka trestnosti — nejprve výzva, pak trest. |
+| § 32 odst. 1 písm. l | uchovávat | „uchovávat v odvysílané podobě a v náležité technické kvalitě záznamy všech pořadů" | Umožňuje dozor a dokazování tím, že ukládá archivaci vysílání. |
+| § 32 odst. 1 | je povinen | „Provozovatel vysílání je povinen" | Uvozuje kogentní katalog základních povinností provozovatele. |
+| § 31 odst. 4 | je povinen sestavovat | „Provozovatel vysílání ze zákona je povinen sestavovat programovou skladbu tak, aby ve svém vysílání poskytoval vyváženou nabídku pro všechny obyvatele" | Ukládá strukturní příkaz plurality programové nabídky. |
+
+- *NSS* [6 A 109/2019 - 68](judikatura/NSS-6-A-109-2019-68.md) — rozsudek z 26. 8. 2021, § 48, 59, 60; totožnost jednání, na něž byl provozovatel upozorněn, a jednání sankcionovaného.
+  > „Dle názoru soudu nelze ustanovení § 59 odst. 1 zákona č. 231/2001 Sb. vykládat tak, že jednání, na jehož závadnost byl provozovatel upozorněn, a další jednání, za nějž je později sankcionován, musí být ve všech skutkových aspektech totožná, neboť by to nepochybně vedlo k faktické nemožnosti sankcionovat řadu skutků ve své podstatě obdobných, avšak lišících se od sebe jen drobnými a nevýznamnými nuancemi"
+
+### Zákaz
+
+Zákaz nařizuje zdržení se určitého jednání. V ZRTV má dvojí ohnisko. Prvním je **ochrana nestrannosti a nezávislosti Rady**: zákon zapovídá členům Rady přijímat pokyny (§ 7 odst. 11) i zastávat politické a hospodářské funkce neslučitelné s regulační rolí (§ 7 odst. 12, 13). Druhým je **regulace obsahu a obchodních sdělení**: § 48 odst. 1 stanoví negativní katalog zakázaných obchodních sdělení (skrytá reklama, tabák, léčivé přípravky na předpis apod.), formulovaný výrazem „nesmějí zařazovat".
+
+Zvláštním případem je zákaz **nakládání s licencí** — § 12 odst. 7 prohlašuje licenci za nepřevoditelnou, čímž ji osobně váže na držitele a vylučuje její obchodování. Systematicky sem patří i normy typu „není nikdo oprávněn" (§ 31 odst. 6, 7), jež negací dovolení vytvářejí zákaz zásahu do vysílaného programu bez souhlasu provozovatele, a zákazy zpracování osobních údajů nezletilých pro obchodní účely (§ 32 odst. 10).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 48 odst. 1 | nesmějí zařazovat | „Provozovatelé vysílání nesmějí zařazovat do vysílání" | Negativní katalog zakázaných obchodních sdělení. |
+| § 12 odst. 7 | je nepřevoditelná | „Licence je nepřevoditelná na jinou osobu." | Osobní vázanost licence, zákaz jejího obchodování. |
+| § 7 odst. 12 | nesmějí zastávat | „Členové Rady nesmějí zastávat funkce v politických stranách nebo hnutích a vystupovat v jejich prospěch." | Chrání politickou nezávislost regulátora. |
+| § 7 odst. 11 | nesmějí přijímat | „pro jejich výkon nesmějí přijímat žádné pokyny a instrukce" | Vylučuje vázanost člena Rady vnějšími pokyny. |
+| § 31 odst. 6 | není nikdo oprávněn | „není nikdo oprávněn vysílaný program zpřístupňovat veřejnosti nebo jej šířit za jiným účelem" | Zákaz neoprávněného zásahu do programu (negace dovolení). |
+| § 32 odst. 10 | nesmí být zpracovávány | „nesmí být zpracovávány pro obchodní účely, zejména pro přímý marketing, profilování a reklamu cílenou na základě chování" | Zákaz komerčního zpracování údajů nezletilých. |
+
+- *NSS* [4 As 36/2007 - 121](judikatura/NSS-4-As-36-2007-121.md) — rozsudek z 29. 5. 2008, § 32, 66a; vztah zákazů reklamy k obecnému předpisu.
+  > „Televizní reklama je zvláštním druhem pořadu či audiovizuálního díla, jehož mediální prezentace je regulována v obecné rovině zákonem č. 40/1995 Sb. a dále rovněž zákonem č. 231/2001 Sb."
+
+### Dovolení
+
+Dovolení ponechává jednání na vůli adresáta — nejde ani o příkaz, ani o zákaz. V ZRTV má dovolení dvojí funkci. **Konstitutivní dovolení** je jádrem licenčního režimu: § 12 odst. 1 výrokem „Licence opravňuje provozovatele vysílání k rozhlasovému a televiznímu vysílání" činí z licence titul, bez něhož je vysílání nelegální. Dovolení zde není pouhou tolerancí, nýbrž veřejnoprávním oprávněním konstituovaným aktem Rady.
+
+**Modální dovolení** typu „je oprávněn", „může" pak provozovateli otevírá prostor pro určité formy vysílání (regionálně odlišný obsah dle § 31 odst. 5) a Radě prostor pro určité druhy licencí (§ 12 odst. 3). Toto dovolení je vždy ohraničeno podmínkami zákona — je to dovolení podmíněné, nikoli bezbřehé.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 12 odst. 1 | opravňuje | „Licence opravňuje provozovatele vysílání k rozhlasovému a televiznímu vysílání" | Konstitutivní titul legálního provozování vysílání. |
+| § 12 odst. 3 | je oprávněna vydat | „Rada je oprávněna vydat licenci k vysílání šířenému prostřednictvím" | Vymezuje druhy vysílání, k nimž lze licenci udělit. |
+| § 31 odst. 5 | je oprávněn | „Provozovatel rozhlasového nebo televizního vysílání je oprávněn do vysílání současně zařazovat i pořady, programové prvky a další části vysílání" | Dovoluje regionálně odlišný obsah vysílání. |
+
+- *NSS* [1 As 31/2014 - 27](judikatura/NSS-1-As-31-2014-27.md) — rozsudek z 25. 6. 2014, § 12, 13, 17; licence jako vzácný veřejný statek a prekluzivní povaha lhůt.
+  > „Takový postup by mířil proti smyslu a účelu zákonné úpravy, jejímž cílem je obezřetnost při dodržování zákonem stanovených podmínek a uvážlivost při nakládání s vzácným veřejným statkem"
+
+### Zmocnění
+
+Zmocnění (kompetenční normy) zakládají pravomoc orgánu veřejné moci autoritativně zasahovat do právních poměrů. V ZRTV je jejich adresátem Rada jako ústřední regulátor. Zmocnění se rozpadá na **sankční kompetenci** (§ 5 odst. 1 písm. f — „ukládá správní tresty") a na **kompetenci nad licencemi a registracemi** (udělování, změny, odnětí). Formulace indikativem „Rada uděluje", „Rada odejme" signalizuje, že jde o výkon veřejné moci, nikoli o soukromoprávní úkon.
+
+Zvláštní pozornost si zaslouží rozlišení mezi zmocněním **vázaným** (obligatorním) a zmocněním **fakultativním**. Ustanovení § 63 odst. 1 („Rada odejme licenci … pokud") je normou kogentní: při naplnění zákonných důvodů Radě nezbývá uvážení a licenci odejmout musí. Naproti tomu řada dalších kompetencí ponechává Radě správní uvážení. Tabulka ilustruje reprezentativní zmocnění; jde vždy o normy zakládající pravomoc, nikoli povinnost samotného provozovatele.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 5 odst. 1 písm. f | ukládá správní tresty | „ukládá správní tresty podle tohoto zákona" | Zakládá sankční kompetenci Rady jako regulátora. |
+| § 63 odst. 1 | Rada odejme | „Rada odejme licenci provozovateli vysílání s licencí, pokud" | Kogentní zmocnění k obligatornímu odnětí licence. |
+| § 5 odst. 1 písm. b | uděluje, mění a odnímá | „uděluje, mění a odnímá licence k provozování rozhlasového a televizního vysílání" | Souhrnná kompetence Rady nad životním cyklem licence. |
+
+- *ÚS* [I.ÚS 1171/09](judikatura/US-I-S-1171-09.md) — usnesení z 25. 11. 2009, § 59; preventivní funkce správního trestání jako meze sankční kompetence.
+  > „Smyslem ustanovení § 59 zákona o vysílání podle Nejvyššího správního soudu je nepochybně zajistit, aby provozovatel nebyl trestán za deliktní jednání, jehož si nebyl vědom. Obecně vzato se tímto institutem realizuje preventivní funkce správního trestání."
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou dvě strany téhož právního vztahu — proto je vhodné vykládat je společně. **Oprávnění** je subjektivním právem, jehož se lze dovolat: provozovatel má právo vysílat svobodně a nezávisle (§ 31 odst. 1), dotčená osoba má právo požadovat uveřejnění odpovědi (§ 35 odst. 1), provozovatel má právo odepřít poskytnutí informace o zdroji (§ 41 odst. 1). Tato oprávnění mají ústavní kořeny ve svobodě projevu a v právu na informace a jejich omezení je přípustné jen na základě zákona a v mezích proporcionality.
+
+**Povinnost** je korelátem oprávnění a současně sama zdrojem nároků jiných. Strukturní povinnost objektivity a vyváženosti (§ 31 odst. 3) chrání pluralitu informací a je protějškem práva veřejnosti na nezkreslené zpravodajství; povinnost uchovávat záznamy je protějškem dozorové pravomoci Rady. Korelativita se projevuje i uvnitř jediného ustanovení: § 32 odst. 1 písm. l ukládá provozovateli archivovat a zapůjčovat záznamy, a týmž dechem mu přiznává **právo na náhradu nákladů** spojených se zapůjčením.
+
+Rozlišení mezi oprávněním a povinností přitom není absolutní — právo odepřít informaci (§ 41) je zároveň mezí povinnosti součinnosti se státními orgány, a naopak povinnost objektivity vymezuje hranice redakční svobody. Judikatura proto typicky poměřuje kolidující oprávnění a povinnosti testem proporcionality.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 31 odst. 1 | má právo | „má právo vysílat programy svobodně a nezávisle" | Redakční svoboda provozovatele, omezitelná jen zákonem. |
+| § 35 odst. 1 | má právo požadovat | „má tato osoba právo požadovat na provozovateli vysílání uveřejnění odpovědi" | Subjektivní nárok dotčené osoby na korekci. |
+| § 41 odst. 1 | má právo odepřít | „má právo odepřít soudu, jinému státnímu orgánu nebo orgánu veřejné správy poskytnutí informace o původu či obsahu těchto informací" | Ochrana novinářského zdroje. |
+| § 32 odst. 1 písm. l | má … právo na náhradu | „provozovatel vysílání má vůči Radě právo na náhradu nutných nákladů spojených se zapůjčením záznamů" | Kompenzační oprávnění korelativní k archivační povinnosti. |
+| § 31 odst. 3 | je povinen zajistit | „Provozovatel vysílání je povinen zajistit, aby ve zpravodajských a politicko-publicistických pořadech bylo dbáno zásad objektivity a vyváženosti" | Strukturní povinnost politické vyváženosti. |
+| § 31 odst. 4 | je povinen sestavovat | „Provozovatel vysílání ze zákona je povinen sestavovat programovou skladbu tak, aby ve svém vysílání poskytoval vyváženou nabídku pro všechny obyvatele" | Povinnost plurality nabídky u vysílání ze zákona. |
+
+- *NSS* [10 As 100/2020 - 35](judikatura/NSS-10-As-100-2020-35.md) — rozsudek z 30. 9. 2020, § 31; smysl rozlišení zpravodajství a publicistiky.
+  > „Smyslem zákonného rozlišení pořadů zpravodajských a pořadů publicistických je umožnit divákům učinit si vlastní názor na co nejobjektivněji prezentovaná fakta (u pořadů čistě zpravodajského charakteru, kde by provozovatel vysílání neměl divákům podsouvat žádné hodnotící soudy) na straně jedné, a poslechnout si nezřídka originální a kontroverzní názory a hodnotící soudy v publicistických pořadech na straně druhé"
+- *ÚS* [I.ÚS 394/04](judikatura/US-I-S-394-04.md) — nález z 27. 9. 2005, § 41; ochrana zdroje a test proporcionality.
+  > „Tu je pak úkolem Ústavního soudu posoudit takový konflikt testem proporcionality a vážit, zda je v konkrétním případě veřejný zájem na odhalení zdroje novinářovy informace natolik silný, že převáží i ústavní právo na svobodu projevu, jehož derivátem je i právo sdělovacích prostředků na utajení zdroje informace"
+- *NS* [25 Cdo 4322/2019](judikatura/NS-25-Cdo-4322-2019.md) — rozhodnutí z 30. 11. 2021, § 35, 40; účel a meze práva na odpověď.
+  > „Účelem odpovědi, která má být uveřejněna v rozhlasovém nebo televizním vysílání podle § 35 zákona č. 231/2001 Sb. (ve znění pozdějších předpisů), je uvést na pravou míru skutkové tvrzení týkající se dotčené osoby, resp. neúplné či jinak pravdu zkreslující tvrzení doplnit nebo zpřesnit."
+
+### Domněnky a fikce
+
+Domněnky a fikce v ZRTV neslouží dokazování skutkových otázek obsahu vysílání, nýbrž **ochraně žadatele před nečinností Rady**. Nejvýraznějším příkladem je fikce registrace podle § 28 odst. 3: uplyne-li lhůta bez rozhodnutí, „platí, že přihlašovatel je registrován dnem následujícím po uplynutí této lhůty". Jde o pravou fikci — zákon spojuje právní následek (registraci) se stavem, který fakticky nenastal (vydání rozhodnutí), a činí tak ve prospěch žadatele. Fikce je nevyvratitelná; Rada se jí nemůže bránit důkazem, že by registraci jinak neudělila.
+
+Obdobnou konstrukci obsahuje režim změn licence: nerozhodne-li Rada ve stanovené lhůtě, „má se za to, že se změnou vyslovila souhlas" (§ 21 odst. 3, obdobně u změn technických parametrů). Výraz „má se za to" značí v české legislativní technice zpravidla vyvratitelnou domněnku, zde však vzhledem k mechanismu marného uplynutí lhůty působí jako fikce souhlasu. Společným jmenovatelem těchto ustanovení je sankce za nečinnost orgánu a posílení právní jistoty adresáta — modalita fikce zde plní systémovou pojistku proti průtahům.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 28 odst. 3 | platí, že | „platí, že přihlašovatel je registrován dnem následujícím po uplynutí této lhůty" | Fikce mlčky udělené registrace při nečinnosti Rady. |
+| § 21 odst. 3 | má se za to, že | „Pokud Rada ve stanovené lhůtě nerozhodne a nejedná se o řízení s více účastníky, má se za to, že se změnou vyslovila souhlas." | Fikce souhlasu se změnou licence při nečinnosti Rady. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v ZRTV nepůsobí izolovaně; v klíčových institutech se kombinují do funkčních celků, přičemž kotvíme výhradně na položkách výše klasifikovaných.
+
+- **Licenční režim** spojuje **dovolení** (§ 12 odst. 1 — „opravňuje" k vysílání), **zákaz** dispozice (§ 12 odst. 7 — „je nepřevoditelná") a **zmocnění** Rady (§ 5 odst. 1 písm. f a § 63 odst. 1 — „ukládá správní tresty", „Rada odejme"). Dovolení tak vzniká rozhodnutím kompetenčního orgánu, je osobně vázáno zákazem převodu a končí obligatorním zmocněním k odnětí.
+- **Programová integrita** kombinuje **oprávnění** provozovatele (§ 31 odst. 1 — „má právo vysílat programy svobodně a nezávisle") s **povinností** objektivity a vyváženosti (§ 31 odst. 3 — „je povinen zajistit"). Svoboda a její strukturní omezení tvoří jediný institut redakční odpovědnosti.
+- **Dozorový mechanismus** propojuje **příkaz** archivace (§ 32 odst. 1 písm. l — „uchovávat") s **příkazem** procesního postupu (§ 59 odst. 1 — „upozorní … a stanoví"). Uchované záznamy jsou důkazním podkladem, na jehož základě Rada nejprve vyzývá a teprve poté sankcionuje.
+- **Ochrana dotčených osob a zdrojů** staví vedle sebe dvě **oprávnění** různých směrů: nárok dotčené osoby vůči provozovateli (§ 35 odst. 1 — „má právo požadovat") a obranné právo provozovatele vůči státu (§ 41 odst. 1 — „má právo odepřít").
+- **Ochrana před nečinností** doplňuje kompetenční zmocnění fikcemi ve prospěch žadatele (§ 28 odst. 3 — „platí, že"), jež působí jako protiváha diskrece Rady.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | „upozorní … a stanoví", „uchovávat", „je povinen sestavovat" | § 59 odst. 1; § 32 odst. 1 písm. l; § 31 odst. 4 |
+| Zákaz | „nesmějí zařazovat", „je nepřevoditelná", „nesmějí zastávat", „není nikdo oprávněn" | § 48 odst. 1; § 12 odst. 7; § 7 odst. 12; § 31 odst. 6 |
+| Dovolení | „opravňuje", „je oprávněna vydat", „je oprávněn" | § 12 odst. 1; § 12 odst. 3; § 31 odst. 5 |
+| Zmocnění | „ukládá správní tresty", „Rada odejme", „uděluje, mění a odnímá" | § 5 odst. 1 písm. f; § 63 odst. 1; § 5 odst. 1 písm. b |
+| Oprávnění | „má právo", „má právo požadovat", „má právo odepřít" | § 31 odst. 1; § 35 odst. 1; § 41 odst. 1 |
+| Povinnost | „je povinen zajistit", „je povinen" | § 31 odst. 3; § 32 odst. 1 |
+| Domněnka / fikce | „platí, že", „má se za to, že" | § 28 odst. 3; § 21 odst. 3 |
